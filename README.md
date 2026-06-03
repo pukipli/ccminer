@@ -80,7 +80,7 @@ chmod +x ccminer start.sh
 nano config.json
 ```
 
-Tutorialnya Ada Di TikTok
+Tutorialnya Ada Di TikTok:
 https://vt.tiktok.com/ZSxEePPHB/
 
 # Cara Setting Agar Autorun Saat Membuka Termux
@@ -113,9 +113,7 @@ Kemudian
 ~/ccminer/start.sh
 ```
 
-```
-
-Tutorial Video TikTok
+**Tutorial Video TikTok**
 https://vt.tiktok.com/ZSxEePPHB/
 
 ## Auto start app ( easy) 
