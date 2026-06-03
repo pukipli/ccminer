@@ -85,6 +85,12 @@ Kalau Tidak Autorun Juga Tidak Apa-Apa
 Masuk ccminer dengan cara manual
 
 ```
+cd ccminer
+```
+
+Kemudian
+
+```
 ~/ccminer/start.sh
 ```
 
