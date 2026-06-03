@@ -58,7 +58,7 @@ cd ccminer
 chmod +x ccminer start.sh
 ```
 
-# Untuk Edit Konfigurasi, ubah dompet ke alamat dompet dan nama pekerja Anda
+**Untuk Edit Konfigurasi, ubah dompet ke alamat dompet dan nama pekerja Anda**
 
 - Ketikkan Di Termux:
 
@@ -73,15 +73,13 @@ https://vt.tiktok.com/ZSxEePPHB/
 
 ```
 ‎mkdir ccminer && cd ccminer
-```
-```
+
 ‎‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/ccminer
-```
-```
+
 ‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/config.json
-‎```
-```
+‎
 ‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh
+```
 
 # Cara Setting Agar Autorun Saat Membuka Termux
 
