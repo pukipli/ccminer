@@ -70,6 +70,9 @@ nano config.json
 cd nano ../usr/etc/bash.bashrc
 ```
 
+Geser Ke Paling Bawah
+Lalu
+
 # Ketikkan Kode Ini
 
 ```
