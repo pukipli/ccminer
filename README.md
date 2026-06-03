@@ -143,13 +143,17 @@ nano termux.sh
 termux-wake-lock
 ~/ccminer/start.sh >> ~/miner.log 2>&1
 ```
-Setelah ponsel dihidupkan ulang, Termux dan penambangan akan dimulai secara otomatis sekitar 1-3 menit
 
-# For check result just type ;
+*Setelah ponsel dihidupkan ulang, Termux dan penambangan akan dimulai secara otomatis sekitar 1-3 menit*
+
+# Untuk Melihat Hasil Tambang Ketikkan:
+
 ``` 
 cat miner.log
 ```
-# Clear log & reboot phone
+
+# Hapus log & mulai ulang telepon
+
 ``` 
 rm miner.log
 ``` 
