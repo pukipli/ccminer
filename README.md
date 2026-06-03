@@ -84,6 +84,13 @@ Autorun Setelah Reboot
 Kalau Tidak Autorun Juga Tidak Apa-Apa
 Masuk ccminer dengan masuk cara manual
 
+```
+~/ccminer/start.sh
+```
+
+Tutorial Video TikTok
+https://vt.tiktok.com/ZSxEePPHB/
+
 ## Auto start app ( easy) 
 
 <a href=https://apkcombo.com/id/autostart-app-manager/com.sugarapps.autostartmanager/> AutostartApp</a> <br>
