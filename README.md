@@ -58,7 +58,8 @@ cd ccminer
 chmod +x ccminer start.sh
 ```
 
-## [ Edit Config , change wallet to your wallet adress and worker name]
+<h1 align="center">Edit Konfigurasi, ubah dompet ke alamat dompet dan nama pekerja Anda</h1>
+  
 ```
 nano config.json
 ```
