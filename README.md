@@ -1,33 +1,47 @@
-# CCMINER
+<h1 align="center">ccminer</h1>
 
 terima kasih untuk: sumber asli oleh: Christian Buchner (Christian.Buchner@gmail.com) Christian H. (Chris84)
    
-# ANDROID SMARTPHONE
+<h1 align="center">Android Smartphone</h1>
 
-Use Auto start Manager from Gplay store for auto start termux, then use autorun script for auto mine with termux 
+Gunakan Auto start Manager dari Google Play Store untuk menjalankan Termux secara otomatis, lalu gunakan skrip autorun untuk melakukan penambangan otomatis dengan Termux.
 
-A. USING TERMUX 
-Download Termux lastest Termux apk here
+# Persyaratan
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+<h2 align="center">
 
-<a href=https://f-droid.org/repo/com.termux_1020.apk>TERMUX FDROID</a> <br>
+Unduh Aplikasi Termux Nya Dibawah Ini
 
+👇👇
 
-<a href=https://www.mediafire.com/file/osnhx9dj5gd08gr/com.termux_1020.apk/file> Termux Mirror</a> <br>
+[![termux](https://img.shields.io/badge/termux-83%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+
+[![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
 
 ## [ install update ]
+
 ```
-yes | pkg update && pkg upgrade
+yes | pkg update && pkg upgrade -y
+```
+```
+pkg install git -y
 ```
 
 ## [ install libs]
+
 ```
 yes | pkg install libjansson nano git
 ```
 
 ## [ Clone Repo]
+
 ```
-git clone https://github.com/zikyu7/ccminer
+git clone https://github.com/pukipli/ccminer.git
+```
+```
 cd ccminer
+```
+```
 chmod +x ccminer start.sh
 ```
 
