@@ -124,7 +124,7 @@ https://vt.tiktok.com/ZSxEePPHB/
 ## Download termux boot
 <a href=https://f-droid.org/repo/com.termux.boot_1000.apk> Termux Boot</a> <br>
 
-### create dir and boot script
+### buat direktori dan skrip boot
 ```
 mkdir ~/.termux/boot
 cd ~/.termux/boot
