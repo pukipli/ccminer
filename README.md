@@ -69,25 +69,21 @@ nano config.json
 Tutorialnya Ada Di TikTok
 https://vt.tiktok.com/ZSxEePPHB/
 
-- Kemudian Ketikkan Lagi Di Termux:
+- Selanjutnya Ketikkan Lagi
 
 ```
 ‎mkdir ccminer && cd ccminer
 ```
-
 ```
 ‎‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/ccminer
 ```
-
 ```
 ‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/config.json
 ‎```
-
 ```
 ‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh
-```
 
-
+# Cara Setting Agar Autorun Saat Membuka Termux
 
 ```
 cd nano ../usr/etc/bash.bashrc
