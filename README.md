@@ -70,13 +70,13 @@ nano config.json
 cd nano ../usr/etc/bash.bashrc
 ```
 
-[ put this code ]
+# Ketikkan Kode Ini
 
 ```
 cd ccminer/&&./start.sh
 ```
 
-AUTORUN TERMUX AFTER REBOOT
+Autorun Setelah Reboot
 [ advanced user only ]
 
 ## Auto start app ( easy) 
