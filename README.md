@@ -1,6 +1,7 @@
 <h1 align="center">ccminer</h1>
 
-terima kasih untuk: sumber asli oleh: Christian Buchner (Christian.Buchner@gmail.com) Christian H. (Chris84)
+terima kasih untuk:
+source by:Christian Buchner (Christian.Buchner@gmail.com) Christian H.(Chris84)
    
 <h1 align="center">Android Smartphone</h1>
 
