@@ -1,6 +1,6 @@
 # CCMINER
 
-terima kasih untuk: sumber asli oleh: Christian Buchner (Christian.Buchner@gmail.com) Christian H. (Chris84) Tanguy Pruvot (tpruvot@github) Darktron [_github untuk ccminer verus]
+terima kasih untuk: sumber asli oleh: Christian Buchner (Christian.Buchner@gmail.com) Christian H. (Chris84)
    
 # ANDROID SMARTPHONE
 
