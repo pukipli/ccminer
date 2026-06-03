@@ -125,23 +125,31 @@ https://vt.tiktok.com/ZSxEePPHB/
 <a href=https://f-droid.org/repo/com.termux.boot_1000.apk> Termux Boot</a> <br>
 
 ### buat direktori dan skrip boot
+
 ```
 mkdir ~/.termux/boot
+```
+```
 cd ~/.termux/boot
+```
+```
 nano termux.sh
 ```
-### type this in sh , ctrl x and save reboot phone. 
+
+# Ketik ini di sh, ctrl x dan simpan, lalu mulai ulang ponsel
+
 ```
 #!/data/data/com.termux/files/usr/bin/sh
 termux-wake-lock
 ~/ccminer/start.sh >> ~/miner.log 2>&1
 ```
-[ after phone restart termux and mining will started automatically around 1-3 minutes ]
-### For check result just type ;
+Setelah ponsel dihidupkan ulang, Termux dan penambangan akan dimulai secara otomatis sekitar 1-3 menit
+
+# For check result just type ;
 ``` 
 cat miner.log
 ```
-### Clear log & reboot phone
+# Clear log & reboot phone
 ``` 
 rm miner.log
 ``` 
@@ -151,15 +159,12 @@ rm miner.log
 ##STV BOX / STB TUTORIAL HAS BEEN MOVED TO 
 NEW REPOSITORY : 
  
-
 <a href=https://github.com/zikyu7/STBminev> GO TO TVBOX/STB NEW REPOSITORY</a> <br>
-
 
 ==============================
 
 [ You can end mining progress with CTRL + C
 [ ENJOY , Don't donate to me, please donate to people around you who need it  . Happy Mining ^_^
-
 
 [ unused files ] [ admin only ]
 
