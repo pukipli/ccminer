@@ -80,7 +80,9 @@ cd ccminer/&&./start.sh
 ```
 
 Autorun Setelah Reboot
-[ advanced user only ]
+
+Kalau Tidak Autorun Juga Tidak Apa-Apa
+Masuk ccminer dengan masuk cara manual
 
 ## Auto start app ( easy) 
 
