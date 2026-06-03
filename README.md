@@ -82,7 +82,7 @@ cd ccminer/&&./start.sh
 Autorun Setelah Reboot
 
 Kalau Tidak Autorun Juga Tidak Apa-Apa
-Masuk ccminer dengan masuk cara manual
+Masuk ccminer dengan cara manual
 
 ```
 ~/ccminer/start.sh
