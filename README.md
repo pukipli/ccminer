@@ -58,13 +58,32 @@ cd ccminer
 chmod +x ccminer start.sh
 ```
 
-# Edit Konfigurasi, ubah dompet ke alamat dompet dan nama pekerja Anda
-  
+# Untuk Edit Konfigurasi, ubah dompet ke alamat dompet dan nama pekerja Anda
+- Ketikkan Di Termux:
+
 ```
 nano config.json
 ```
 
-## Setting Autorun Saat Pertama Kali Buka Aplikasi Termux
+Tutorialnya Ada Di TikTok
+https://vt.tiktok.com/ZSxEePPHB/
+
+- Kemudian Ketikkan Lagi Di Termux:
+
+```
+‎mkdir ccminer && cd ccminer
+```
+```
+‎‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/ccminer
+```
+```
+‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/config.json
+‎```
+```
+‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh
+```
+
+# Setting Autorun Saat Pertama Kali Buka Aplikasi Termux
 
 ```
 cd nano ../usr/etc/bash.bashrc
@@ -79,9 +98,9 @@ Lalu
 cd ccminer/&&./start.sh
 ```
 
-Autorun Setelah Reboot
+Autorun Setelah Reboot.
 
-Kalau Tidak Autorun Juga Tidak Apa-Apa
+- Kalau Tidak Autorun Juga Tidak Apa-Apa
 Masuk ccminer dengan cara manual
 
 ```
@@ -92,6 +111,8 @@ Kemudian
 
 ```
 ~/ccminer/start.sh
+```
+
 ```
 
 Tutorial Video TikTok
