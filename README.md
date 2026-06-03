@@ -1,11 +1,6 @@
-# CCMINER GUIDE By tomyrambozha
-thanks for :
-original sourced by : 
-   Christian Buchner ( Christian.Buchner@gmail.com )
-   Christian H. ( Chris84 )
-   Tanguy Pruvot ( tpruvot@github )
-   Darktron [ github for ccminer verus ]
-   Oink70 Android-mining github
+# CCMINER
+
+terima kasih untuk: sumber asli oleh: Christian Buchner (Christian.Buchner@gmail.com) Christian H. (Chris84) Tanguy Pruvot (tpruvot@github) Darktron [_github untuk ccminer verus]
    
 # ANDROID SMARTPHONE
 
