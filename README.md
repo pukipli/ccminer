@@ -43,7 +43,21 @@ pkg install git -y
 ## Install Libs
 
 ```
-yes | pkg install libjansson nano git
+yes | pkg install libjansson wget nano
+```
+
+```
+‎mkdir ccminer && cd ccminer
+```
+
+Lanjut Lagi Ketikkan
+
+```
+‎‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/ccminer
+
+‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/config.json
+
+‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh
 ```
 
 ## Kloning Repositories
@@ -68,18 +82,6 @@ nano config.json
 
 Tutorialnya Ada Di TikTok
 https://vt.tiktok.com/ZSxEePPHB/
-
-- Selanjutnya Ketikkan Lagi
-
-```
-‎mkdir ccminer && cd ccminer
-
-‎‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/ccminer
-
-‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/config.json
-‎
-‎wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh
-```
 
 # Cara Setting Agar Autorun Saat Membuka Termux
 
