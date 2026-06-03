@@ -31,7 +31,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
 
-## [ install update ]
+## Install Update
 
 ```
 yes | pkg update && pkg upgrade -y
@@ -40,13 +40,13 @@ yes | pkg update && pkg upgrade -y
 pkg install git -y
 ```
 
-## [ install libs]
+## Install Libs
 
 ```
 yes | pkg install libjansson nano git
 ```
 
-## [ Clone Repo]
+## Kloning Repositories
 
 ```
 git clone https://github.com/pukipli/ccminer.git
@@ -58,23 +58,22 @@ cd ccminer
 chmod +x ccminer start.sh
 ```
 
-<h1 align="center">Edit Konfigurasi, ubah dompet ke alamat dompet dan nama pekerja Anda</h1>
+# Edit Konfigurasi, ubah dompet ke alamat dompet dan nama pekerja Anda
   
 ```
 nano config.json
 ```
 
-## [ Autorun ] [ CCminer ]
+## Setting Autorun Saat Pertama Kali Buka Aplikasi Termux
 
 ```
-cd ..
-nano ../usr/etc/bash.bashrc
+cd nano ../usr/etc/bash.bashrc
 ```
 
 [ put this code ]
+
 ```
 cd ccminer/&&./start.sh
-
 ```
 
 AUTORUN TERMUX AFTER REBOOT
