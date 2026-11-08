@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=s+h+o+p+e+e+b+j+m" />
 </p>
 
-<img width="1080" height="1070" alt="Image" src="https://github.com/user-attachments/assets/3f62219f-dd1e-4f94-89f1-8131cf882175" />
+<img width="1020" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c837e338-75df-4880-adc8-c1abc766861a" />
 
 <h2 align="center">
   
